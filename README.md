@@ -21,7 +21,7 @@ It ensures that no ad is missed by checking each source frequently and sending i
 
 \## Architecture Diagram
 
-!\[Architecture](images/architecture.png)
+![Architecture](images/architecture.png)
 The diagram shows how the scraping engine interacts with the system:
 1. Playwright fetches ads from multiple sources.
 2. New ads are stored in the state (JSON files) for the Dashboard.
