@@ -24,7 +24,7 @@ Documentation for the Smart Ads Monitoring System, a production-ready project th
 
 \## Architecture Diagram
 
-\_(To be added)\_
+!\[Architecture](images/architecture.png)
 
 
 
